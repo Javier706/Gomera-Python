@@ -9,7 +9,7 @@ print('*******************************')
 print()
 print('-----------------------------------------------')
 print('-                  GOMERA UC                  -')
-print('-    Mantenimiento y respaldo de vehículo     -')
+print('-    Mantenimiento y respaldo de vehiculo     -')
 print('-----------------------------------------------')
 
 cliente = input('Ingrese su nombre y apellido:')
